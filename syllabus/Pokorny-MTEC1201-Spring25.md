@@ -1,10 +1,11 @@
 ## **MTEC 1201: COMPUTER PROGRAMMING FOR INTERACTIVE MEDIA I**   
+
   
 Emerging Media Technology   
 Department of Entertainment Technology   
 New York City College of Technology  
-[SPRING 2025]  
-     
+[Spring 2025]
+
   
 ## COURSE INFORMATION      
 MTEC 1201 Section [D301-302]      
@@ -17,7 +18,8 @@ Course site: [\[our GitHub repo\]](https://github.com/entertainmenttechnology/Po
 Discord: See email invitation    
 Email: IPokorny@citytech.cuny.edu    
 Office hours: Thursday 2pm-4pm (via Zoom or Discord), and by appointment          
-_Sign up for office hours time slots through Discord DM or Email_
+_Sign up for office hours through Discord DM or Email_
+
 
 ### COURSE DESCRIPTION  
 This course introduces students to foundational programming concepts and techniques, with a focus on coding for creative applications. Students design, develop, and code interactive software experiences integrating computer graphics, image assets, text and fonts, and additional digital media. Programming for Interactive Media is the first in a sequence of coding courses for the Emerging Media Technology program, preparing students for advanced coursework in the program.
@@ -36,6 +38,7 @@ For the successful completion of this course, a student should be able to:
 The course combines lectures and presentations, critiques, discussions, and studio/lab time. Typically, students work on technical exercises each week, along with creative short study projects integrating these newly learned techniques. There will be two larger interactive software projects during the semester- a midterm and final project- largely independently driven, with iterative project development.            
     
 Course materials and assignments will generally be posted to GitHub on Wednesdays of each week, due the following Wednesday before class begins. We will create small peer groups for extra tech support during and outside of class hours.    
+
   
 ## PROJECTS AND ASSIGNMENTS      
 * Weekly readings and technical exercises, for developing programming foundations and building conceptual framework.   
@@ -59,6 +62,7 @@ By signing up for this class, you are making a **commitment to fully participate
 * Spend **at least 3-5 additional hours a week** (outside of class) on class projects and exercises. Midterm and Final Projects may require additional time, depending on your ambition. Budget more time each week than may be needed.              
 * **Reach out** to your peer group and your instructor via Discord with questions.   
 * **Push creatively and technically.** Stay open and curious.     
+
   
 ### COMMUNICATION   
 * **To contact your instructor with a brief, private question or message**, send a DM (Direct Message) through Discord. This is preferred over email.  
@@ -66,6 +70,7 @@ By signing up for this class, you are making a **commitment to fully participate
 * Use Discord for **easy communications with your classmates** as well—you can DM individuals or selected groups.  
 * **To discuss a longer matter** with your instructor, set up an appointment for office hours.  
   
+
 ## PARTICIPATION POLICY (The Rules + Regulations for Keeping the Ship Sailing)     
 * **We will begin promptly at the start of each class.**           
 * As **our work is interdependent**, it is critical for everyone to be fully present, participating, and engaging in the course.   
@@ -101,11 +106,14 @@ Students and all others who work with information, ideas, texts, images, music, 
 
 _Instructor’s note:_ all borrowed text, code, or media used for this course must be attributed to the original creator, **whether human or AI**. Any direct text quotes from another source must be specified with quotes and appropriately cited. **Code borrowed from another source at more than four lines in length must be attributed as a //comment within the code itself.** If you are unsure of whether or not your work may constitute plagiarism, please check with your instructor before submitting. **Any instance of plagiarism will be reported to the MTEC Program Director, the Chair of ENT, and City Tech’s Academic Integrity Officer.**      
 
+
 ## COURSE ACCOMMODATIONS FOR STUDENTS WITH DISABILITIES    
-In order to receive disability-related academic accommodations students must first be registered with the [Center for Student Accessibility](http://www.citytech.cuny.edu/accessibility/). Students who have a documented disability or suspect they may have a disability are invited to set up an appointment with the Center (phone: 718–260–5143). If you have already registered with the Center, please provide your professor with the course accommodation form and discuss your specific accommodation with him/her.    
+In order to receive disability-related academic accommodations students must first be registered with the [Center for Student Accessibility](http://www.citytech.cuny.edu/accessibility/). Students who have a documented disability or suspect they may have a disability are invited to set up an appointment with the Center (phone: 718–260–5143). If you have already registered with the Center, please provide your professor with the course accommodation form and discuss your specific accommodation with him/her.  
+
   
 ## A NOTE ON CITY TECH'S COUNSELING CENTER     
 The [Counseling Services Center](http://www.citytech.cuny.edu/counseling/) supports the educational, emotional and career development of City Tech students by providing opportunities for skill development, counseling and referrals that address obstacles to success. The Center is currently available to students remotely and in-person. For questions and appointments, contact the Center at counseling@citytech.cuny.edu or 718-260-5030.        
+
    
 ## INCLUSIVITY 
 Part I. Name + Pronoun Usage 
