@@ -203,7 +203,7 @@ TOPIC
 TECHNIQUE     
 * Review and special topics   
 
-**Session 8: [3/26]**   
+**SESSION 8: [3/26]**   
 TOPIC       
 * Midterm Project Presentations  
  
