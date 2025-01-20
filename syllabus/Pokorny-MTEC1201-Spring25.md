@@ -1,15 +1,13 @@
 ## **MTEC 1201: COMPUTER PROGRAMMING FOR INTERACTIVE MEDIA I**   
   
-
-
 Emerging Media Technology   
 Department of Entertainment Technology   
 New York City College of Technology  
-[Fall/Spring Year]  
+[SPRING 2025]  
      
   
 ## COURSE INFORMATION      
-MTEC 1201 Section [section #]      
+MTEC 1201 Section [D301-302]      
 Computer Programming for Interactive Media I   
 Professor: Ian Pokorny
 When: Wednesday, 2:15pm - 5:35pm
