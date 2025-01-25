@@ -12,7 +12,6 @@ _Have an idea for this list? DM me on Discord!_
 [p5.js home](https://p5js.org/)       
 [Reference](https://p5js.org/reference/)  
 [Getting Started - VS Code setup](https://p5js.org/tutorials/setting-up-your-environment/)
-
 [Examples](https://p5js.org/examples/)  
 [Books](https://p5js.org/books/)  
 
