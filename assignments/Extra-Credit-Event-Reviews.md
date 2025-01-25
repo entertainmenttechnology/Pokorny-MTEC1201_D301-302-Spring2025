@@ -1,6 +1,6 @@
 _This is a nudge to get you seeing work related to creative coding and emerging media in NYC._
   
-Event reviews are extra credit. Reviews will be accepted until the end of the semester on 12/18. Choose any exhibition or event from the [Things to See](https://github.com/entertainmenttechnology/MTEC-Things-To-See) list or DM me with another suggestion to add to the list. If you are unsure if the event qualifies, DM me. _Events that you attend for another class cannot be used for this extra credit._   
+Event reviews are extra credit. Reviews will be accepted until the end of the semester on 5/22. Choose any exhibition or event from the [Things to See](https://github.com/entertainmenttechnology/MTEC-Things-To-See) list or DM me with another suggestion to add to the list. If you are unsure if the event qualifies, DM me. _Events that you attend for another class cannot be used for this extra credit._   
   
 Complete reviews submitted (up to 5) will receive **extra credit**. 
   
