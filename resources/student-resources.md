@@ -25,26 +25,4 @@ _Have an idea for this list? DM me on Discord!_
 [Codeacademy](https://www.codecademy.com/)   
 
 ### MDN Guide for "Plain" JavaScript  
-[MDN Web Docs: JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)   
-
-
-
-
-
-
-    
-
-    
-
-  
-     
-
-
-
-
-  
-
-  
-     
-  
-  
+[MDN Web Docs: JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
