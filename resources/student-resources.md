@@ -13,7 +13,7 @@ _Have an idea for this list? DM me on Discord!_
 [Reference](https://p5js.org/reference/)  
 [Examples](https://p5js.org/examples/)  
 [Books](https://p5js.org/books/)  
-[Getting Started - VS Code setup](https://p5js.org/tutorials/setting-up-your-environment/)
+[VS Code & p5.js setup](https://p5js.org/tutorials/setting-up-your-environment/)
 
 ### Creative Coding Inspiration 
 [Open Processing](https://www.openprocessing.org)     
