@@ -11,7 +11,7 @@ New York City College of Technology
 MTEC 1201 Section [D301-302]      
 Computer Programming for Interactive Media I   
 Professor: Ian Pokorny
-When: Wednesday, 2:15pm - 5:35pm
+When: Wednesday, 2:15pm - 5:35pm    
 Modality: Fully in person    
 Location: Voorhees V103B      
 Course site: [\[this GitHub repo\]](https://github.com/entertainmenttechnology/Pokorny-MTEC1201_D301-302-Spring2025)                  
