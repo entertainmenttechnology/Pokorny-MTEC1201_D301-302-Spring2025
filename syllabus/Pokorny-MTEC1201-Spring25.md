@@ -14,7 +14,7 @@ Professor: Ian Pokorny
 When: Wednesday, 2:15pm - 5:35pm
 Modality: Fully in person    
 Location: Voorhees V103B      
-Course site: [\[our GitHub repo\]](https://github.com/entertainmenttechnology/Pokorny-MTEC1201_D301-302-Spring2025)                  
+Course site: [\[this GitHub repo\]](https://github.com/entertainmenttechnology/Pokorny-MTEC1201_D301-302-Spring2025)                  
 Discord: See email invitation    
 Email: IPokorny@citytech.cuny.edu    
 Office hours: Thursday 2pm-4pm (via Zoom or Discord), and by appointment          
