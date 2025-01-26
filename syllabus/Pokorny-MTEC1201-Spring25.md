@@ -13,7 +13,7 @@ Computer Programming for Interactive Media I
 Professor: Ian Pokorny
 When: Wednesday, 2:15pm - 5:35pm
 Modality: Fully in person    
-Location: Voorhees V103B
+Location: Voorhees V103B      
 Course site: [\[our GitHub repo\]](https://github.com/entertainmenttechnology/Pokorny-MTEC1201_D301-302-Spring2025)                  
 Discord: See email invitation    
 Email: IPokorny@citytech.cuny.edu    
