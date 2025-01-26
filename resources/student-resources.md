@@ -15,6 +15,12 @@ _Have an idea for this list? DM me on Discord!_
 [Books](https://p5js.org/books/)  
 [VS Code & p5.js setup](https://p5js.org/tutorials/setting-up-your-environment/)
 
+### GitHub 
+[GitHub Desktop - Getting Started](https://docs.github.com/en/desktop/overview/getting-started-with-github-desktop)     
+[GitHub Desktop - Full Documentation](https://docs.github.com/en/desktop)  
+[What is Git?](https://docs.github.com/en/get-started/using-git/about-git)  
+[GitHub Glossary](https://docs.github.com/en/get-started/learning-about-github/github-glossary#branch)
+
 ### Creative Coding Inspiration 
 [Open Processing](https://www.openprocessing.org)     
 [Experiments with Google Chrome](https://experiments.withgoogle.com/collection/chrome)    
@@ -22,7 +28,7 @@ _Have an idea for this list? DM me on Discord!_
   
 ### Tutorials / Demos / Projects        
 [The Coding Train](https://www.youtube.com/user/shiffman/playlists)   
-[Codeacademy](https://www.codecademy.com/)   
+[Code Academy](https://www.codecademy.com/)   
 
 ### MDN Guide for "Plain" JavaScript  
 [MDN Web Docs: JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
