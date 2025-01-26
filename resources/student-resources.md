@@ -9,11 +9,11 @@ _Have an idea for this list? DM me on Discord!_
 [City Tech Student Hub](https://www.citytech.cuny.edu/current-student/)    
   
 ### p5.js Library 
-[p5.js home](https://p5js.org/)       
+[p5.js home](https://p5js.org/)    
+[VS Code & p5.js setup](https://p5js.org/tutorials/setting-up-your-environment/)                  
 [Reference](https://p5js.org/reference/)  
 [Examples](https://p5js.org/examples/)  
 [Books](https://p5js.org/books/)  
-[VS Code & p5.js setup](https://p5js.org/tutorials/setting-up-your-environment/)
 
 ### GitHub 
 [GitHub Desktop - Getting Started](https://docs.github.com/en/desktop/overview/getting-started-with-github-desktop)     
