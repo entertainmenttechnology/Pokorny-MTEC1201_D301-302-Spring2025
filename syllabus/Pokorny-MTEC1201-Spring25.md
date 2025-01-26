@@ -10,7 +10,7 @@ New York City College of Technology
 ## COURSE INFORMATION      
 MTEC 1201 Section [D301-302]      
 Computer Programming for Interactive Media I   
-Professor: Ian Pokorny
+Professor: Ian Pokorny     
 When: Wednesday, 2:15pm - 5:35pm    
 Modality: Fully in person    
 Location: Voorhees V103B      
