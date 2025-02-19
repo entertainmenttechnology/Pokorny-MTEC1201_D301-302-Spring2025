@@ -1,4 +1,4 @@
-## DUE FRIDAY, 9/13
+## DUE WEDNESDAY, 2/26
 
 ### **Familiarize Yourself with the following...**        
 Resources on the p5.js website: 
@@ -40,7 +40,7 @@ _Projects must include:_
     * The title for your drawing    
     * A brief explanation of the concept or theme you are choosing to explore for the semester and how this first sketch ties into it.     
 
-Save the completed sketch as "SS1_[FirstName + Last Initial]" (for example, "SS1_IanP"). Submit as a zip file (compress the project folder) and send via Discord DM **before the beginning of class on 9/26** and also have the sketch ready to show for that class.     
+Save the completed sketch as "SS1_[FirstName + Last Initial]" (for example, "SS1_IanP"). Submit as a zip file (compress the project folder) and send via Discord DM **before the beginning of class on 2/26** and also have the sketch ready to show for that class.     
 
 ## **Supplemental/Optional:**  
 For video tutorials relating to this week's topics, check out The Coding Train:  
