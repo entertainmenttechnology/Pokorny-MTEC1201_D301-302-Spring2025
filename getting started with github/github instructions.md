@@ -66,7 +66,7 @@ _If you are familiar with command line and terminal, I encourage you to go that 
 
 _You are also welcome to use any GitHub GUI that you prefer, whatever gets the job done._
   
-1. **Create a new repository**, locally and online, titled PhysComp_FirstName (for example: PhysComp_Ian). 
+1. **Create a new repository**, locally and online, titled MTEC1201_FirstName (for example: MTEC1201_Ian). 
 
 2. **Send me your GitHub user name on Discord.**
   
