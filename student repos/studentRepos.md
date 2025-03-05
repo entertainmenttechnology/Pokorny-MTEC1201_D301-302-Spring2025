@@ -13,4 +13,10 @@
 * [Val](https://github.com/SirWhereIsMyFood/stain-free-code-1201)
 
 * [Kate](https://github.com/kcrennan/mtec-1201)
+  
+* [Peter](https://github.com/PeterV-git/MTech1201-Spring-2025)
+
+* [Gibson](https://github.com/GKwong24/MTEC1201_Gibson)
+
+* [Isiah](https://github.com/zayflaiiiir/Isiah_Repo/tree/main)
 
