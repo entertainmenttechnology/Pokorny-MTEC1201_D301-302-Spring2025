@@ -22,3 +22,5 @@
 
 * [Corey](https://github.com/Dale06-max/mtec1201_sp25)
 
+* [Kate](https://github.com/kcrennan/mtec-1201)
+
