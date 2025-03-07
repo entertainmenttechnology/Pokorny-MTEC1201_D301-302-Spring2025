@@ -8,7 +8,7 @@
 
 * [Adit](https://github.com/Adit452/Mtec1201_Spring2025_AditV)
 
-* [Journey](https://github.com/journx/MTEC1201_Spring)
+* [Journey](https://github.com/journx/MTEC1201-SPRING)
 
 * [Val](https://github.com/SirWhereIsMyFood/stain-free-code-1201)
 
