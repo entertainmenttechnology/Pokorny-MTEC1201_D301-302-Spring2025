@@ -26,7 +26,7 @@
 
 * [Tsu](https://github.com/tsu000/MTEC1201_Tsu)
 
-*[Perla](https://github.com/perla-beep/MTEC1201-D302)
+* [Perla](https://github.com/perla-beep/MTEC1201-D302)
 
 *
 
