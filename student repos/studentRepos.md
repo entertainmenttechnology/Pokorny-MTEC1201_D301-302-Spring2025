@@ -28,7 +28,7 @@
 
 * [Perla](https://github.com/perla-beep/MTEC1201-D302)
 
-*[Ananya](https://github.com/nanialfm/Ananya.1)
+* [Ananya](https://github.com/nanialfm/Ananya.1)
 
 *
 
