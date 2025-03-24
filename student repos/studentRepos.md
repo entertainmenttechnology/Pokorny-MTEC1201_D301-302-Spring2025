@@ -30,7 +30,7 @@
 
 * [Ananya](https://github.com/nanialfm/Ananya.1)
 
-*
+* [Alex](https://github.com/Kanekix1/MTEC1201_Alex)
 
 
 
