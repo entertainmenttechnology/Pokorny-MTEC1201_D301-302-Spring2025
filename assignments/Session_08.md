@@ -1,4 +1,4 @@
-## Due Wednesday, 4/5  
+## Due Wednesday, 4/2  
   
 ### **Midterm 2nd Iteration**    
 Taking class feedback into account, submit a second iteration of your midterm project. 
